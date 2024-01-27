@@ -10,7 +10,7 @@
     
     "interpreter":"none",
     
-    "args":"serve -s build -p 5173"
+    "args":"serve -s build -p 5174"
     
     }
     
